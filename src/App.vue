@@ -5,6 +5,7 @@
     <page-body></page-body>
     <page-button></page-button>
     <page-img></page-img>
+    <page-img2></page-img2>
     <page-footer></page-footer>
     
     
@@ -16,6 +17,7 @@ import PageHeader from "./components/header.vue"
 import PageBody from './components/body.vue'
 import PageButton from './components/page-button.vue'
 import PageImg from './components/page-img.vue'
+import PageImg2 from './components/page-img2.vue'
 import PageFooter from "./components/footer.vue"
 
 
@@ -25,6 +27,7 @@ export default {
     PageHeader,
     PageBody,
     PageImg,
+    PageImg2,
     PageButton,
     PageFooter
   }

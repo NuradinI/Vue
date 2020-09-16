@@ -1,6 +1,6 @@
 <template>
     <div>
-<img src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg" alt="programming image">
+<img src="https://cdn-media-1.freecodecamp.org/images/TJLA0zPJXSOVCMWG9frHnNBbXfxA6AAZp3DM" alt="">
     </div>
 </template>
 
